@@ -1,0 +1,33 @@
+baidunetdisk_3.3.2_amd64/*
+<<<<<<< HEAD
+*.AppImage
+=======
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+# Libraries
+
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# vim
+*.swp
+*~
+
+>>>>>>> c6b19d7 (...)
